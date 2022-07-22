@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { Navbar } from "./components/navbar";
-import Tab from "./components/Tab";
+
 import "./App.css";
 const axios = require("axios");
 
